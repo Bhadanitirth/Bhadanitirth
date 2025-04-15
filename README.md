@@ -23,10 +23,10 @@
 
 <p align="left">
 <a href="https://twitter.com/tirth_bhadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirth_bhadani" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhadanitirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhadanitirth" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tirth_bhadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth_bhadani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhadanitirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhadanitirth" height="30" width="40" /></a>
-<a href="https://discord.gg/your-invite-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your-discord" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhadani-tirth-735770293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhadanitirth" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_tirth_bhadani_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tirth_bhadani" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Bhadani_Tirth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhadanitirth" height="30" width="40" /></a>
+<a href="https://discord.com/shop/tirth3203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your-discord" height="30" width="40" /></a>
 </p> 
 
 ---
